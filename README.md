@@ -1,8 +1,13 @@
-<div style="position: relative; text-align: center; color: white;">
-  <img src="https://s8.ezgif.com/tmp/ezgif-8c4abab0e13e71.gif" alt="Background" style="width:100%;">
+<!-- <div style="position: relative; text-align: center; color: white;">
+<img src="https://s8.ezgif.com/tmp/ezgif-8c4abab0e13e71.gif" alt="Background" style="width:100%;">
+</div> 
+-->
+
+<div align="center" style="position: relative; width: 100%;">
+  <img src="https://preview.redd.it/lojakg5fd6761.gif?width=150&auto=webp&s=3215221c1bb9b4ee1a162f42e92ac7e9d6048aa2" alt="Khoirul Aryan Avatar" width="20%" />
+  <style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); color: white;">
+    <h1>Hi 👋, I'm Khoirul Aryan Perdana</h1>
 </div>
-
-
 
 ---
 
