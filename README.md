@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Khoirul Aryan
 
-<!--
-**khoirularyan/khoirularyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning web development!  
+🔧 My focus right now is on:
+- HTML & CSS
+- Git & GitHub
+- Laravel
+- React & Next.js
+- Tailwind CSS
 
-Here are some ideas to get you started:
+✨ I'm passionate about building clean and responsive web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me via:
+- GitHub: (https://github.com/khoirularyan)
+- Email: (Khoirularyan24@gmail.com)
+
+---
+
+Thanks for stopping by! 😊
