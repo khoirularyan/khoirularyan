@@ -34,19 +34,6 @@ Here’s what I'm focusing on right now:
 
 ---
 
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khoirularyan&show_icons=true&theme=tokyonight" alt="Khoirul's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoirularyan&theme=tokyonight" alt="Khoirul's GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoirularyan&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🌟 Let's Connect!
 📫 You can reach me via:
 - GitHub: (https://github.com/khoirularyan)
